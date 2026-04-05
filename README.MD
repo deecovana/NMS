@@ -5,3 +5,4 @@
 - First planet out
 - Second planet
 - First trading ready
+- Backup DefaultUser.zip 
