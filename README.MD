@@ -12,6 +12,7 @@
 - 2.1. Sea base FerrPlusPlus and Paraph
 - Enter Anomaly
 - Third System
+- Fourth: Start farm Harmony
 
 ## 26.04.05 First hour
 - Repaired ship
