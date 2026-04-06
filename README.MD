@@ -3,6 +3,8 @@
 ## 26.04.05 Second hour
 - Trade 200k+
 - Start building 1st base
+- Station reached
+- Sold first Saved A-class ship got 2.6m
 
 ## 26.04.05 First hour
 - Repaired ship
