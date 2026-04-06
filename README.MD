@@ -13,6 +13,7 @@
 - Enter Anomaly
 - Third System
 - Fourth: Start farm Harmony
+- 4.0 Guards Farm
 
 ## 26.04.05 First hour
 - Repaired ship
