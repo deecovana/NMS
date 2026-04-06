@@ -15,6 +15,7 @@
 - Fourth: Start farm Harmony
 - 4.0 Guards Farm
 - Fifth: Prepare to AviaBase Jump, continue Guards Ship Farm
+  - Found One C class but Transport type
 
 ## 26.04.05 First hour
 - Repaired ship
