@@ -8,6 +8,7 @@
 - More A-class trades 
 - Multitul slots bought
 - 4.35m+
+- New System
 
 ## 26.04.05 First hour
 - Repaired ship
