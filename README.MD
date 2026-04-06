@@ -14,6 +14,7 @@
 - Third System
 - Fourth: Start farm Harmony
 - 4.0 Guards Farm
+- Fifth: Prepare to AviaBase Jump, continue Guards Ship Farm
 
 ## 26.04.05 First hour
 - Repaired ship
