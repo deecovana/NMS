@@ -9,6 +9,7 @@
 - Multitul slots bought
 - 4.35m+
 - New System
+- 2.1. Sea base FerrPlusPlus and Paraph
 
 ## 26.04.05 First hour
 - Repaired ship
