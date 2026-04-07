@@ -1,5 +1,7 @@
 # NMS GitHub @deecovana repo (CC4 2026)
 
+## 26.04.07 Continue with Trader's Avi and Guard's Transport
+
 ## 26.04.05 Second hour
 - Trade 200k+
 - Start building 1st base
